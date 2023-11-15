@@ -28,7 +28,10 @@
   },
   "dependencies": {
     "@huggingface/hub": "^0.10.0",
+    "@huggingface/inference": "^2.6.1",
     "debug": "^4.3.4",
+    "ai": "^2.2.12",
+    "autoprefixer": "10.4.15",
     "eslint-config-prettier": "^8.5.0",
     "fsevents": "^2.3.3",
     "next": "^12.3.0",
@@ -38,9 +41,7 @@
     "react-use": "^17.4.0",
     "tailwind": "^4.0.0",
     "uuid": "^9.0.1",
-    "vercel": "^32.5.3"
-  },
-  "devDependencies": {
+    "vercel": "^32.5.3",
     "@types/node": "^18.7.16",
     "@types/react": "^18.0.19",
     "@typescript-eslint/eslint-plugin": "^5.36.2",
